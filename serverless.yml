@@ -5,6 +5,9 @@ frameworkVersion: '3'
 provider:
   name: aws
   runtime: nodejs14.x
+package:
+  include:
+    - files/**
 
 functions:
   hello:
