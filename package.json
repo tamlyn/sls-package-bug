@@ -16,7 +16,9 @@
     "url": "https://github.com/tamlyn/sls-package-bug/issues"
   },
   "homepage": "https://github.com/tamlyn/sls-package-bug#readme",
-  "dependencies": {
-    "serverless": "^3.20.0"
+  "devDependencies": {
+    "serverless": "^3.20.0",
+    "serverless-plugin-typescript": "^2.1.2",
+    "typescript": "^4.7.4"
   }
 }

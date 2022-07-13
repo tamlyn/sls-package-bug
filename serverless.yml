@@ -12,3 +12,6 @@ package:
 functions:
   hello:
     handler: handler.hello
+
+plugins:
+  - serverless-plugin-typescript
